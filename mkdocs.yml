@@ -1,6 +1,6 @@
 site_name: Calculator
 nav: 
   - Home: index.md
-  - Knowdledge: 
-      - explanation.md
-  theme: readthedocs
+  - Knowledge: 
+    - explanation.md
+theme: readthedocs
